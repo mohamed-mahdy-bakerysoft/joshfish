@@ -1,0 +1,8 @@
+README.md
+hello.py
+pyproject.toml
+joshfish.egg-info/PKG-INFO
+joshfish.egg-info/SOURCES.txt
+joshfish.egg-info/dependency_links.txt
+joshfish.egg-info/requires.txt
+joshfish.egg-info/top_level.txt

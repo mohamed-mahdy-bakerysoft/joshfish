@@ -1,2 +1,1 @@
-# joshfish
-WIP self made chess bot
+WIP self-made chess engine
